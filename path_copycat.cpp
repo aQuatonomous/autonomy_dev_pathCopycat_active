@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * *
- *   Save Waypoint Node (save_waypoint.cpp)
+ *   Path Copycat (path_copycat.cpp)
  *   Sabrina Button (sabrina.button@queensu.ca)
  *   aQuatonomous 2024-2025
  * * * * * * * * * * * * * * * * * * * * * * * * */
